@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codeit",
+    "prod_uri": "mysql://root:@localhost/codeit",
+    "fb_url": "https://facebook.com/codeit",
+    "tw_url": "https://twitter.com/codeit",
+    "gh_url": "https://github.com/codeit",
+    "blog_name": "CodeIt",
+    "tag_line": "A Coding blog by Developers !",
+    "copy_right": "CodeIt 2021",
+    "gmail-user": "code@gmail.com",
+    "gmail-password": "password",
+    "about_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "no_of_posts": 2,
+    "login_image": "mickeymouse1.jpg",
+    "admin_user": "admin",
+    "admin_password": "admin",
+    "upload_location": "F:\\Projects\\Flask\\Project1\\static>"
+  }
+}
